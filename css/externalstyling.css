@@ -1,0 +1,191 @@
+*{
+	margin: 0px;
+	font-family:'Press Start 2P';
+}
+
+#footer{
+	color: white;
+	margin-top: 50px;
+	text-align: center;
+
+}
+#air, #airp, #bubble, #bubblep, #heat, #heatp, #wood, #woodp, #flash, #flashp, #crash, #crashp, #quick, #quickp, #metal, #metalp{
+ color: white;
+  margin-top: 20px; 
+  text-align: center;
+}
+#quickmanpic2{
+	height: 200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
+#megamanlogo{
+	height: 250px;
+	width: 25%;
+}
+footer{
+	margin-top: 50px;
+	text-align: center;
+}
+#manstage iframe {
+    max-width: 100%;
+    height: auto;
+}
+#manstage {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#bossname{
+	height: 250px;
+	width: 75%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	font-size: 40px;
+	color: white;
+}
+#megamancharacterlinksb{
+		height: 30px;
+	width: 100%;
+	font-size: 18px;
+	text-align: center; 
+	text-decoration: none;
+	margin-top: 30px;
+	background-color: white;
+
+	
+}
+#megamancharacterlinksw{
+		height: 30px;
+	width: 100%;
+	font-size: 18px;
+	text-align: center; 
+	text-decoration: none;
+	margin-top: 30px;
+	background-color: lightgreen;
+
+	
+}
+
+
+#megamancharacterlinks{
+	height: 30px;
+	width: 100%;
+	font-size: 18px;
+	text-align: center; 
+	text-decoration: none;
+	margin-top: 30px;
+
+}
+#metalmanpic2{
+    display: flex;
+    justify-content: center;
+}
+
+#megamancharacterlinksm{
+		height: 30px;
+	width: 100%;
+	font-size: 18px;
+	text-align: center; 
+	text-decoration: none;
+	margin-top: 30px;
+	background-color: orange;
+
+}
+#flashmanpic{
+	width: 250px;
+	height: 100px;
+}
+
+.social-icon {
+    width: 75px;    
+    height: 75px;
+    object-fit: contain;  
+}
+#social {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+
+#metalman{
+	background-color: rgb(214, 0, 74);
+}
+#metalmanheader{
+	height: 250px;
+	width: 100%;
+	display: flex;
+}
+
+#quickman{
+	background-color: rgb(202, 5, 84);
+}
+#quickmanheader{
+	height: 250px;
+	width: 100%;
+	display: flex;
+}
+
+#bubbleman{
+	background-color: rgb(5, 88, 4);
+}
+#bubblemanheader{
+	height: 250px;
+	width: 100%;
+	display: flex;
+}
+
+#woodman{
+	background-color: rgb(231, 91, 16);
+}
+#woodmanheader{
+	height: 250px;
+	width: 100%;
+	display: flex;
+}
+
+#airman{
+	background-color: rgb(8, 95, 218);
+}
+#airmanheader{
+	height: 250px;
+	width: 100%;
+	display: flex;
+}
+
+#heatman{
+	background-color: rgb(203, 1, 72);
+}
+#heatmanheader{
+	height: 250px;
+	width: 100%;
+	display: flex;
+}
+
+#crashman{
+	background-color: rgb(190, 3, 62);
+}
+#crashmanheader{
+	height: 250px;
+	width: 100%;
+	display: flex;
+}
+
+#flashman{
+	background-color: rgb(25, 101, 232);
+}
+#flashmanheader{
+	height: 250px;
+	width: 100%;
+	display: flex;
+}
+#video{
+	margin-top: 15px;
+}
